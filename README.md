@@ -6,7 +6,7 @@ Small replica of 'Super Mario Bros'.
 
 ## How to use
 
-Click the 'Play' icon next to if __name__ == “__main__”
+Click the 'Play' icon next to if __name__ == “__main__” in app.py
 
 ## Uses
 
