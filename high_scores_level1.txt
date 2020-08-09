@@ -1,0 +1,12 @@
+nenweew:4
+rink:7
+i:7
+a:7
+quick:10
+brown:7
+fox:7
+jumps:7
+over:7
+lazy:7
+dog:7
+fadsfasdfads:7
